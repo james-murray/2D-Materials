@@ -1,0 +1,381 @@
+% Encoding: UTF-8
+
+@Article{:/content/aip/journal/apl/100/12/10.1063/1.3696045,
+  author =  {Hao Qiu and Lijia Pan and Zongni Yao and Junjie Li and Yi Shi and Xinran Wang},
+  title =   {Electrical characterization of back-gated bi-layer MoS2 field-effect transistors and the effect of ambient on their performances},
+  year =    {2012},
+  volume =  {100},
+  number =  {12},
+  eid =     {123104},
+  doi =     {http://dx.doi.org/10.1063/1.3696045},
+  url =     {http://scitation.aip.org/content/aip/journal/apl/100/12/10.1063/1.3696045},
+  file =    {:Papers\\QiuPanYaoLiShiWang2012.pdf:PDF},
+  journal = {Applied Physics Letters}
+}
+
+@Article{:/content/aip/journal/apl/99/1/10.1063/1.3609243,
+  author =  {Wei, Xiao-Lin and Fang, Hui and Wang, Ru-Zhi and Chen, Yuan-Ping and Zhong, Jian-Xin},
+  title =   {Energy gaps in nitrogen delta-doping graphene: A first-principles study},
+  year =    {2011},
+  volume =  {99},
+  number =  {1},
+  eid =     {012107},
+  doi =     {http://dx.doi.org/10.1063/1.3609243},
+  url =     {http://scitation.aip.org/content/aip/journal/apl/99/1/10.1063/1.3609243},
+  file =    {:Papers\\WeiFangWangChenZhong2011.pdf:PDF},
+  journal = {Applied Physics Letters}
+}
+
+@Article{10.1021/nl103079j,
+  author =  {Beidou Guo and Qian Liu and Erdan Chen and Hewei Zhu and Liang Fang and Jian Ru Gong},
+  title =   {Controllable N-Doping of Graphene},
+  year =    {2010},
+  volume =  {10},
+  number =  {12},
+  pages =   {4975-4980},
+  note =    {PMID: 20968305},
+  doi =     {10.1021/nl103079j},
+  eprint =  { http://dx.doi.org/10.1021/nl103079j },
+  url =     { 
+        http://dx.doi.org/10.1021/nl103079j
+    
+},
+  file =    {:C\:\\Users\\james\\Documents\\Masters 2016\\Papers\\GuoLiuChenZhuFangGong2010.pdf:PDF},
+  journal = {Nano Letters}
+}
+
+@Article{10.1039/C0JM00638F,
+  author =       {Ming Zhang and Danni Lei and Xiaoming Yin and Libao Chen and Qiuhong Li and Yanguo Wang and Taihong Wang},
+  title =        {Magnetite/graphene composites: microwave irradiation synthesis and enhanced cycling and rate performances for lithium ion batteries},
+  journaltitle = {Journal of Materials Chemistry},
+  year =         {2010},
+  url =          {http://pubs.rsc.org/en/content/articlehtml/2010/jm/c0jm00638f},
+  file =         {:C\:\\Users\\james\\Documents\\Masters 2016\\Papers\\ZhangLeiYinChenLiWangWang2010.pdf:PDF}
+}
+
+@Article{2007IEDL...28..282L,
+  author =  {{Lemme}, M.~C. and {Echtermeyer}, T.~J. and {Baus}, M. and {Kurz}, H.},
+  title =   {A Graphene Field-Effect Device},
+  year =    {2007},
+  volume =  {28},
+  month =   apr,
+  pages =   {282-284},
+  doi =     {10.1109/LED.2007.891668},
+  eprint =  {cond-mat/0703208},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl =  {http://adsabs.harvard.edu/abs/2007IEDL...28..282L},
+  file =    {:Papers\\LemmeEchtermeyerBausKurz2007.pdf:PDF},
+  journal = {IEEE Electron Device Letters}
+}
+
+@Article{2009ApPhL..94f2107K,
+  author =        {{Kim}, S. and {Nah}, J. and {Jo}, I. and {Shahrjerdi}, D. and {Colombo}, L. and {Yao}, Z. and {Tutuc}, E. and {Banerjee}, S.~K.},
+  title =         {Realization of a high mobility dual-gated graphene field-effect transistor with Al2O3 dielectric},
+  year =          {2009},
+  volume =        {94},
+  number =        {6},
+  eid =           {062107},
+  month =         feb,
+  pages =         {062107},
+  doi =           {10.1063/1.3077021},
+  eprint =        {0901.2901},
+  adsnote =       {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl =        {http://adsabs.harvard.edu/abs/2009ApPhL..94f2107K},
+  archiveprefix = {arXiv},
+  file =          {:Papers\\KimNahJoShahrjerdiColomboYaoTutucBanerjee2009.pdf:PDF},
+  journal =       {Applied Physics Letters},
+  keywords =      {Field effect devices, Semiconductor-device characterization design and modeling},
+  primaryclass =  {cond-mat.mes-hall}
+}
+
+@Patent{ando1995process,
+  author =    {Ando, K. and Kawakami, T. and Shouji, Y. and Tanaka, Y. and Kanaoka, T. and Sayama, N.},
+  title =     {Process for producing copper clad laminate},
+  year =      {1995},
+  note =      {US Patent 5,382,333},
+  month =     jan #{~17},
+  url =       {https://www.google.com/patents/US5382333},
+  publisher = {Google Patents}
+}
+
+@Article{Bolotin2008351,
+  author =   {K.I. Bolotin and K.J. Sikes and Z. Jiang and M. Klima and G. Fudenberg and J. Hone and P. Kim and H.L. Stormer},
+  title =    {Ultrahigh electron mobility in suspended graphene },
+  year =     {2008},
+  volume =   {146},
+  number =   {9–10},
+  pages =    {351 - 355},
+  issn =     {0038-1098},
+  doi =      {http://dx.doi.org/10.1016/j.ssc.2008.02.024},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0038109808001178},
+  abstract = {We have achieved mobilities in excess of 200,000 cm2 V −1 s−1 at electron densities of ∼2 ×1011 cm−2 by suspending single layer graphene. Suspension ∼150 nm above a Si/SiO2 gate electrode and electrical contacts to the graphene was achieved by a combination of electron beam lithography and etching. The specimens were cleaned in situ by employing current-induced heating, directly resulting in a significant improvement of electrical transport. Concomitant with large mobility enhancement, the widths of the characteristic Dirac peaks are reduced by a factor of 10 compared to traditional, nonsuspended devices. This advance should allow for accessing the intrinsic transport properties of graphene. },
+  journal =  {Solid State Communications },
+  keywords = {A. Graphene}
+}
+
+@Article{Chavez01112001,
+  author =   {Chavez, K. L. and Hess, D. W.},
+  title =    {A Novel Method of Etching Copper Oxide Using Acetic Acid},
+  year =     {2001},
+  volume =   {148},
+  number =   {11},
+  pages =    {G640-G643},
+  doi =      {10.1149/1.1409400},
+  eprint =   {http://jes.ecsdl.org/content/148/11/G640.full.pdf+html},
+  url =      {http://jes.ecsdl.org/content/148/11/G640.abstract},
+  abstract = {The removal of copper oxide using acetic acid at low temperatures was investigated. Acetic acid removes a variety of copper oxides, including cuprous oxide, cupric oxide, and cupric hydroxide without attacking the underlying copper film. The removal of these oxides was determined by X-ray photoelectron spectroscopy. Acetic acid can tolerate up to 4 vol % water dilution without hindering the oxide removal while producing an oxide-free surface. However, if a deionized water rinse is performed after an acetic acid treatment, a surface film of cupric hydroxide forms immediately. An acetic acid treatment at 35°C without a water rinse removes the native copper oxide and produces an oxide-free, streak-free copper surface. © 2001 The Electrochemical Society. All rights reserved.},
+  journal =  {Journal of The Electrochemical Society}
+}
+
+@Article{Compagnini20093201,
+  author =   {Giuseppe Compagnini and Filippo Giannazzo and Sushant Sonde and Vito Raineri and Emanuele Rimini},
+  title =    {Ion irradiation and defect formation in single layer graphene },
+  year =     {2009},
+  volume =   {47},
+  number =   {14},
+  pages =    {3201 - 3207},
+  issn =     {0008-6223},
+  doi =      {http://dx.doi.org/10.1016/j.carbon.2009.07.033},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0008622309004564},
+  abstract = {Ion irradiation by 500 keV C+ ions has been used to introduce defects into graphene sheets deposited on SiO2 in a controlled way. The combined use of Raman spectroscopy and atomic force microscopy (AFM) allowed one to clarify the mechanisms of disorder formation in single layers, bilayers and multi-layers of graphene. The ratio between the D and G peak intensities in the Raman spectra of single layers is higher than for bilayers and multi-layers, indicating a higher amount of disorder. This cannot be only ascribed to point defects, originating from direct C+–C collisions, but also the different interactions of single layers and few layers with the substrate plays a crucial role. As demonstrated by AFM, for irradiation at fluences higher than 5 × 1013 cm−2, the morphology of single layers becomes fully conformed to that of the SiO2 substrate, i.e. graphene ripples are completely suppressed, while ripples are still present on bilayer and multi-layers. The stronger interaction of a single layer with the substrate roughness leads to the observed larger amount of disorder. },
+  file =     {:C\:\\Users\\james\\Documents\\Masters 2016\\Papers\\CompagniniGiannazzoSondeRaineriRimini2009.pdf:PDF},
+  journal =  {Carbon }
+}
+
+@Article{doi:10.1021/nl101399r,
+  author =  {Z. H. Ni and L. A. Ponomarenko and R. R. Nair and R. Yang and S. Anissimova and I. V. Grigorieva and F. Schedin and P. Blake and Z. X. Shen and E. H. Hill and K. S. Novoselov and A. K. Geim},
+  title =   {On Resonant Scatterers As a Factor Limiting Carrier Mobility in Graphene},
+  year =    {2010},
+  volume =  {10},
+  number =  {10},
+  pages =   {3868-3872},
+  note =    {PMID: 20795655},
+  doi =     {10.1021/nl101399r},
+  eprint =  {http://dx.doi.org/10.1021/nl101399r},
+  url =     {http://dx.doi.org/10.1021/nl101399r},
+  journal = {Nano Letters}
+}
+
+@Article{doi:10.1021/nl803316h,
+  author =  {Yu-Ming Lin and Keith A. Jenkins and Alberto Valdes-Garcia and Joshua P. Small and Damon B. Farmer and Phaedon Avouris},
+  title =   {Operation of Graphene Transistors at Gigahertz Frequencies},
+  year =    {2009},
+  volume =  {9},
+  number =  {1},
+  pages =   {422-426},
+  note =    {PMID: 19099364},
+  doi =     {10.1021/nl803316h},
+  eprint =  {http://dx.doi.org/10.1021/nl803316h},
+  url =     {http://dx.doi.org/10.1021/nl803316h},
+  file =    {:Papers\\LinJenkinsValdes-GarciaSmallFarmerAvouris2009.pdf:PDF},
+  journal = {Nano Letters}
+}
+
+@Article{doi:10.1021/nl901073g,
+  author =  {Joshua A. Robinson and Maxwell Wetherington and Joseph L. Tedesco and Paul M. Campbell and Xiaojun Weng and Joseph Stitt and Mark A. Fanton and Eric Frantz and David Snyder and Brenda L. VanMil and Glenn G. Jernigan and Rachael L. Myers-Ward and Charles R. Eddy, Jr. and D. Kurt Gaskill},
+  title =   {Correlating Raman Spectral Signatures with Carrier Mobility in Epitaxial Graphene: A Guide to Achieving High Mobility on the Wafer Scale},
+  year =    {2009},
+  volume =  {9},
+  number =  {8},
+  pages =   {2873-2876},
+  note =    {PMID: 19719106},
+  doi =     {10.1021/nl901073g},
+  eprint =  {http://dx.doi.org/10.1021/nl901073g},
+  url =     {http://dx.doi.org/10.1021/nl901073g},
+  journal = {Nano Letters}
+}
+
+@Article{doi:10.1021/nl902790r,
+  author =   {Mark P. Levendorf and Carlos S. Ruiz-Vargas and Shivank Garg and Jiwoong Park},
+  title =    {Transfer-Free Batch Fabrication of Single Layer Graphene Transistors},
+  year =     {2009},
+  volume =   {9},
+  number =   {12},
+  pages =    {4479-4483},
+  note =     {PMID: 19860406},
+  doi =      {10.1021/nl902790r},
+  eprint =   { http://dx.doi.org/10.1021/nl902790r},
+  url =      {http://dx.doi.org/10.1021/nl902790r},
+  abstract = { Full integration of graphene into conventional device circuitry would require a reproducible large scale graphene synthesis that is compatible with conventional thin film technology. We report the synthesis of large scale single layer graphene directly onto an evaporated copper film. A novel fabrication method was used to directly pattern these graphene sheets into devices by simply removing the underlying copper film. Raman and conductance measurements show that the mechanical and electrical properties of our single layer graphene are uniform over a large area, (Ferrari, A. C. et al. Phys. Rev. Lett. 2006, 97, 187401.) which leads to a high device yield and successful fabrication of ultra long (>0.5 mm) graphene channels. Our graphene based devices present excellent electrical properties including a promising carrier mobility of 700 cm2/V·s and current saturation characteristics similar to devices based on exfoliated graphene (Meric, I.. et al. Nat Nanotechnol. 2008, 3, 654−659). },
+  journal =  {Nano Letters}
+}
+
+@Article{JMR:7991670,
+  author =   {Brongersma,S. H. and Kerr,E. and Vervoort,I. and Saerens,A. and Maex,K.},
+  title =    {Grain Growth, Stress, and Impurities in Electroplated Copper},
+  year =     {2002},
+  volume =   {17},
+  issue =    {03},
+  pages =    {582--589},
+  issn =     {2044-5326},
+  doi =      {10.1557/JMR.2002.0082},
+  url =      {http://journals.cambridge.org/article_S0884291400060945},
+  abstract = { ABSTRACT The widely observed secondary grain growth in electroplated Copper layers is shown to be incomplete after the sheet resistance and stress of the layer appear to have stabilized. Instead the layer is in an intermediate state with a grain size distribution that depends on the plating conditions. Further extensive annealing at high temperatures results in an additional considerable enlargement of the grain structure, accompanied by an additional decrease of the sheet resistance and desorption of impurities that were incorporated during plating. },
+  journal =  {Journal of Materials Research},
+  numpages = {8}
+}
+
+@Article{MCKEE1970131,
+  author =   {D.W. McKee},
+  title =    {The copper-catalyzed oxidation of graphite},
+  year =     {1970},
+  volume =   {8},
+  number =   {2},
+  pages =    {131 - 139},
+  issn =     {0008-6223},
+  doi =      {http://dx.doi.org/10.1016/0008-6223(70)90108-9},
+  url =      {http://www.sciencedirect.com/science/article/pii/0008622370901089},
+  abstract = {The role of copper as a catalyst in the oxidation of graphite has been studied by optical microscopy and thermogravimetric analysis. The presence of small amounts of copper salts was found to have a very marked effect on the rate of oxidation and ignition temperature of polycrystalline graphite in dry oxygen. Water vapor retarded the oxidation rate of both the catalyzed and uncatalyzed reactions, but had little effect on the ignition temperatures. During catalytic oxidation at 700–800°C, copper oxide particles in the 1–5 μ. size range moved rapidly on the basal plane of natural graphite crystals, cutting irregular channels in the surface. The thermogravimetric results suggest that the catalytic effect involves the localized reduction of cupric oxide by graphite and subsequent re-oxidation of the resulting metal. Alloying of the copper with zinc, aluminum or tin inhibited the catalytic effect.},
+  journal =  {Carbon}
+}
+
+@Article{Musa1998305,
+  author =   {A.O Musa and T Akomolafe and M.J Carter},
+  title =    {Production of cuprous oxide, a solar cell material, by thermal oxidation and a study of its physical and electrical properties },
+  year =     {1998},
+  volume =   {51},
+  number =   {3–4},
+  pages =    {305 - 316},
+  issn =     {0927-0248},
+  doi =      {http://dx.doi.org/10.1016/S0927-0248(97)00233-X},
+  url =      {http://www.sciencedirect.com/science/article/pii/S092702489700233X},
+  abstract = {Cuprous oxide (Cu2O) is a non stoichiometric defect semiconductor. It is envisaged that this semiconductor could be utilised for the fabrication of low-cost solar cells. Copper foil samples, were oxidised in air between 200°C and 1050°C. The oxide films grown were then investigated by means of both \{XRD\} and SEM. The electrical characteristics of Cu2O films were analysed by means of the hot-probe thermoelectric method, resistivity and mobility measurements. Oxide films formed between 1040°C and 1050°C were observed to consist entirely of Cu2O and showed p-type semiconductivity while those grown between 200°C and 970°C consists of a mixture of cupric oxide (CuO) and Cu2O. The CuO layer formed was found to be also p-type semiconducting. Thermodynamic calculations indicate that CuO in the mixed oxide layer could be explained in terms of the oxidation of Cu2O. Cu2O layers grown in air without the annealing process gave resistivities in the range 2×103–3×103 Ω cm. A substantial reduction in the resistivity of the samples was achieved by doping with chlorine during growth and annealing. An average mobility of 75 cm2 V−1s −1, at room temperature, was obtained for eight unannealed Cu2O samples. This average value increased to 130 cm2 V−1 s−1, after doping the samples with chlorine and annealing. },
+  journal =  {Solar Energy Materials and Solar Cells },
+  keywords = {Cuprous oxide}
+}
+
+@Article{PhysRevB.85.121402,
+  author =    {Ugeda, Miguel M. and Brihuega, Iv\'an and Hiebel, Fanny and Mallet, Pierre and Veuillen, Jean-Yves and G\'omez-Rodr\'{\i}guez, Jos\'e M. and Yndur\'ain, F\'elix},
+  title =     {Electronic and structural characterization of divacancies in irradiated graphene},
+  year =      {2012},
+  volume =    {85},
+  issue =     {12},
+  month =     {Mar},
+  pages =     {121402},
+  doi =       {10.1103/PhysRevB.85.121402},
+  url =       {http://link.aps.org/doi/10.1103/PhysRevB.85.121402},
+  file =      {:C\:\\Users\\james\\Documents\\Masters 2016\\Papers\\UgedaBrihuegaHiebel,MalletVeuillenGomez-RodriguezYndurain2012.pdf:PDF},
+  journal =   {Phys. Rev. B},
+  numpages =  {5},
+  publisher = {American Physical Society}
+}
+
+@Article{PhysRevLett.101.037203,
+  author =    {Yazyev, Oleg V.},
+  title =     {Magnetism in Disordered Graphene and Irradiated Graphite},
+  year =      {2008},
+  volume =    {101},
+  issue =     {3},
+  month =     {Jul},
+  pages =     {037203},
+  doi =       {10.1103/PhysRevLett.101.037203},
+  url =       {http://link.aps.org/doi/10.1103/PhysRevLett.101.037203},
+  file =      {:C\:\\Users\\james\\Documents\\Masters 2016\\Papers\\Yazyev2008.pdf:PDF},
+  journal =   {Phys. Rev. Lett.},
+  numpages =  {4},
+  publisher = {American Physical Society}
+}
+
+@Article{PhysRevLett.102.206603,
+  author =    {Ponomarenko, L. A. and Yang, R. and Mohiuddin, T. M. and Katsnelson, M. I. and Novoselov, K. S. and Morozov, S. V. and Zhukov, A. A. and Schedin, F. and Hill, E. W. and Geim, A. K.},
+  title =     {Effect of a High-$\ensuremath{\kappa}$ Environment on Charge Carrier Mobility in Graphene},
+  year =      {2009},
+  volume =    {102},
+  issue =     {20},
+  month =     {May},
+  pages =     {206603},
+  doi =       {10.1103/PhysRevLett.102.206603},
+  url =       {http://link.aps.org/doi/10.1103/PhysRevLett.102.206603},
+  journal =   {Phys. Rev. Lett.},
+  numpages =  {4},
+  publisher = {American Physical Society}
+}
+
+@Article{PhysRevLett.96.256602,
+  author =    {Nomura, Kentaro and MacDonald, Allan H.},
+  title =     {Quantum Hall Ferromagnetism in Graphene},
+  year =      {2006},
+  volume =    {96},
+  issue =     {25},
+  month =     {Jun},
+  pages =     {256602},
+  doi =       {10.1103/PhysRevLett.96.256602},
+  url =       {http://link.aps.org/doi/10.1103/PhysRevLett.96.256602},
+  journal =   {Phys. Rev. Lett.},
+  numpages =  {4},
+  publisher = {American Physical Society}
+}
+
+@Article{PSSA:PSSA201000009,
+  author =    {Pinto, H. and Jones, R. and Goss, J. P. and Briddon, P. R.},
+  title =     {Mechanisms of doping graphene},
+  year =      {2010},
+  volume =    {207},
+  number =    {9},
+  pages =     {2131--2136},
+  issn =      {1862-6319},
+  doi =       {10.1002/pssa.201000009},
+  url =       {http://dx.doi.org/10.1002/pssa.201000009},
+  abstract =  {We distinguish three mechanisms of doping graphene. Density functional theory is used to show that electronegative molecules like tetrafluoro-tetracyanoquinodimethane (F4-TCNQ) and electropositive metals like K dope graphene p- and n- type, respectively. These dopants are expected to lead to a decrease in carrier mobility arising from Coulomb scattering but without any hysteresis effects. Secondly, a novel doping mechanism is exhibited by Au which dopes bilayer graphene but not single layer. Thirdly, electrochemical doping is effected by redox reactions and can result in p-doping by humid atmospheres and n-doping by NH3 and toluene.},
+  file =      {:Papers\\PintoJonesGossBriddon2010.pdf:PDF},
+  journal =   {physica status solidi (a)},
+  keywords =  {doping, electrochemical, graphene},
+  publisher = {WILEY-VCH Verlag}
+}
+
+@Article{Satta01052003,
+  author =   {Satta, Alessandra and Shamiryan, Denis and Baklanov, Mikhaı̈l R. and Whelan, Caroline M. and Toan Le, Quoc and Beyer, Gerald P. and Vantomme, André and Maex, Karen},
+  title =    {The Removal of Copper Oxides by Ethyl Alcohol Monitored In Situ by Spectroscopic Ellipsometry },
+  year =     {2003},
+  volume =   {150},
+  number =   {5},
+  pages =    {G300-G306},
+  doi =      {10.1149/1.1564108},
+  eprint =   {http://jes.ecsdl.org/content/150/5/G300.full.pdf+html},
+  url =      {http://jes.ecsdl.org/content/150/5/G300.abstract},
+  abstract = {As an interconnect material, copper has the disadvantage of not forming self-limiting oxides, which can negatively affect device performance and reliability. Undesired oxide layers need to be removed by in situ cleaning, before the copper is subjected to subsequent depositions. We have used ethyl alcohol 
+(C2H5OH) as a vapor phase reducing agent to remove copper oxides formed on electroplated copper films upon exposure to the ambient. Spectroscopic ellipsometry has been used to monitor the reduction process in situ. Ex situ characterization using X-ray photoelectron spectroscopy and atomic force microscopy support in situ measurements. While oxide removal can be achieved at temperatures as low as 130°C, independent of oxide layer thickness and composition, it occurred more efficiently at 200°C, showing compatibility with the low temperature (<400°C) processing requirements of low dielectric constant materials. The initial reaction involves the reduction of Cu2+ to Cu+ species followed by a second phase consisting of Cu+ conversion to elemental copper, producing a clean metal surface. Reduction of Cu2+ to Cu+ species is the rate-limiting step as evidenced by enhanced sensitivity to the reaction temperature. © 2003 The Electrochemical Society. All rights reserved.},
+  journal =  {Journal of The Electrochemical Society}
+}
+
+@Article{Singh2015124,
+  author =   {Arun K. Singh and Gregory Auton and Ernie Hill and Aimin Song},
+  title =    {Graphene based ballistic rectifiers },
+  year =     {2015},
+  volume =   {84},
+  pages =    {124 - 129},
+  issn =     {0008-6223},
+  doi =      {http://dx.doi.org/10.1016/j.carbon.2014.11.064},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0008622314011506},
+  abstract = {Abstract Despite having the longest mean-free-path of carriers in all electronic materials, it has been virtually impossible to demonstrate graphene ballistic devices due to the rather diffusive and hence random scattering of carriers from the edges. Hence we show that this may not be true in the nonlinear transport regime in a nanodevice called ballistic rectifier. In contrast to a conventional transistor, the ballistic rectifier does not necessarily require a sizable bandgap. Here, we not only demonstrate rectifying effect at room temperature but also indicate that the carrier scattering from graphene edges in the nonlinear regime may be more specularly than previous discovered in the linear regime. },
+  journal =  {Carbon }
+}
+
+@Article{Yu01012015,
+  author =   {Yu, Hak Ki},
+  title =    {Effective Reduction of Copper Surface for Clean Graphene Growth},
+  year =     {2015},
+  volume =   {162},
+  number =   {12},
+  pages =    {E277-E281},
+  doi =      {10.1149/2.0441512jes},
+  eprint =   {http://jes.ecsdl.org/content/162/12/E277.full.pdf+html},
+  url =      {http://jes.ecsdl.org/content/162/12/E277.abstract},
+  abstract = {We developed a new pre-reduction method of Cu surface (using (NH4)2S2O8 etching solution) for high quality graphene growth. The adsorbed oxygen and water molecules on the bare Cu surface produce CuO2 and Cu(OH)2 bonding, resulting in physical degradation of continuous monolayer graphene by forming CuOx nano-particles at the interface between graphene and Cu catalyst. The chemical degradation of graphene was also confirmed by analyzing the sp3 / sp2 C-C bond ratio using X-ray photoemission. The conventional reduction method such as hydrogen reduction and acetic acid pre-treatment was not sufficient to remove these CuOx nano-particles. We demonstrated that the pre-etched Cu foil in 0.3 mole (NH4)2S2O8 solution for 1 min can be the most ideal candidate for the high quality and clean graphene growth.},
+  journal =  {Journal of The Electrochemical Society}
+}
+
+@Article{Zhao2011509,
+  author =   {L. Zhao and K.T. Rim and H. Zhou and R. He and T.F. Heinz and A. Pinczuk and G.W. Flynn and A.N. Pasupathy},
+  title =    {Influence of copper crystal surface on the \{CVD\} growth of large area monolayer graphene },
+  year =     {2011},
+  volume =   {151},
+  number =   {7},
+  pages =    {509 - 513},
+  issn =     {0038-1098},
+  doi =      {http://dx.doi.org/10.1016/j.ssc.2011.01.014},
+  url =      {http://www.sciencedirect.com/science/article/pii/S0038109811000433},
+  abstract = {We study the influence of the surface structure of copper single crystals on the growth of large area monolayer graphene by chemical vapor deposition (CVD) in ultra-high vacuum (UHV). Using atomic-resolution scanning tunneling microscopy (STM), we find that graphene grows primarily in registry with the underlying copper lattice for both Cu(111) and Cu(100). The graphene has a hexagonal superstructure on Cu(111) with a significant electronic component,whereas it has a linear superstructure on Cu(100). Graphene on Cu(111) forms a microscopically uniform sheet, the quality of which is determined by the presence of grain boundaries where graphene grains with different orientations meet. Graphene grown on Cu(100) under similar conditions does not form a uniform sheet and instead displays exposed nanoscale edges. Our results indicate the importance of the copper crystal structure on the microstructure of graphene films produced by CVD. },
+  journal =  {Solid State Communications },
+  keywords = {A. STM}
+}
